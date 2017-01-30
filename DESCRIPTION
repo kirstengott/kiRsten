@@ -1,11 +1,11 @@
 Package: kiRsten
-Title: What the Package Does (one line, title case)
+Title: Useful function for me in my R world.
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Kirsten", "Gotting", email = "k.gotting@gmail.com", role = c("aut", "cre"))
+Description: R functions for me to use.
 Depends:
     R (>= 3.2.2)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 5.0.1

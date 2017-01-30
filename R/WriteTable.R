@@ -1,4 +1,3 @@
-
 #' Another Table Writing Function
 #'
 #' This function allows you to write out tsv files with default options that make sense..

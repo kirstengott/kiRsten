@@ -3,4 +3,6 @@
 export(WriteTable)
 export(make_pheatmap_df)
 export(make_pheatmap_groups)
+export(prettyFilePath)
 export(se)
+export(splitstr2vec)
